@@ -61,12 +61,12 @@ OPay’s story delivers a clear lesson for Nigerian founders: market domination 
 
 They won the long game by monetizing insight quietly gathered over a decade.
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 👤 [Samuel C. Chiedozie (Jadeofwallstreet)](https://www.0xnotes.lol/) —     │
-│ Full-stack software engineer, builder, and technical writer focused on      │
-│ scalable systems, Web3, AI, and data-driven products. Creator of             │
-│ [LighterDash](https://lighterdash.lol/), [BaseStory](https://www.basestory.app/), │
-│ [Learnable AI](https://learnable.fun/), and multiple Web3 education tools.  │
-│ Community builder with 1,000+ members sharing DeFi insights and airdrop     │
-│ strategies. Open to collaborations and high-impact engineering roles.       │
-└─────────────────────────────────────────────────────────────────────────────┘
+> ### 👤 [Jadeofwallstreet](https://www.0xnotes.lol/)
+>
+> **Full-stack software engineer, builder, and technical writer**  
+> Focused on scalable systems, Web3, AI, and data-driven products.  
+> Creator of [LighterDash](https://lighterdash.lol/), [BaseStory](https://www.basestory.app/),  
+> [Learnable AI](https://learnable.fun/), and multiple Web3 education tools.
+>
+> Community builder with 1,000+ members sharing DeFi insights and airdrop strategies.  
+> Open to collaborations and high-impact engineering roles.
